@@ -1,3 +1,25 @@
+**To open ipynb file go to colab.research.google.com and run cell**
+
+There are 3 cases: 
+
+when A wins
+
+![image](https://github.com/user-attachments/assets/fb7206e2-beec-4952-bb6d-0de0a02867bd)
+
+![image](https://github.com/user-attachments/assets/f15bf454-cb7f-431d-8120-d1b3f09bb0d7)
+
+When B wins
+ 
+![image](https://github.com/user-attachments/assets/82d8ecce-a07a-496f-928a-2caa6d29508f)
+
+![image](https://github.com/user-attachments/assets/670eb539-1671-47e7-8322-2d22e0c274f7)
+
+When it is a draw
+
+![image](https://github.com/user-attachments/assets/fd9af647-838f-43af-8fdb-04c7e850720c)
+
+![image](https://github.com/user-attachments/assets/b6357df5-8daf-4ee5-8841-8d6234307794)
+
 **1. Problem Statement**
 
 The problem to be solved is to predict the result of a football match between two teams based on a set of qualitative logical conditions. The goal is not to use statistical learning or historical datasets, but instead to define explicit rules that reflect human-like reasoning — e.g., "if a team is stronger, has home advantage, and is in form, then it is likely to win." The outcome of the match should be one of the following:
